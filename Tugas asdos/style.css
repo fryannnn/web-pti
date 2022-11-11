@@ -1,0 +1,22 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+    font-family:
+}
+
+.judul {
+    background-color: rgb(180, 116, 220);
+    
+}
+
+.foto{
+    margin: 70;
+   
+}
+
+.catat{
+    margin: 50;
+    padding: 35;
+}
+
